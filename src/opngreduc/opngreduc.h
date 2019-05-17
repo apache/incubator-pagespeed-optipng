@@ -10,6 +10,7 @@
 #define OPNGREDUC_H
 
 #include "png.h"
+#include "string.h"
 
 
 #ifdef __cplusplus
